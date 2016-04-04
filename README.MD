@@ -1,6 +1,8 @@
 
 # caso dê problema com erros 2125 ou 2123
 
+`C:\ProgramData\Rosetta Stone`
+
 ### 1-renomeia o arquivo tracking.db3 para tracking1.db3
 ### 2-reinicie o computador
 ### 3-execute o rosseta stone e feche logo em seguida.
